@@ -1,31 +1,38 @@
 # 🌟 Flexbox Froggy Solutions 🌟
 
-find the game at : https://flexboxfroggy.com/
+Learn and practice Flexbox concepts with the interactive game at:  
+👉 [flexboxfroggy.com](https://flexboxfroggy.com/) 🐸
 ---
 
 
 
-## 🎯 1. `justify-content: flex-end;`
+## 🎯 1. 
+- `justify-content: flex-end;`
 
 ---
 
-## 🎯 2. `justify-content: center;`
+## 🎯 2. 
+- `justify-content: center;`
 
 ---
 
-## 🎯 3. `justify-content: space-around;`
+## 🎯 3. 
+- `justify-content: space-around;`
 
 ---
 
-## 🎯 4. `justify-content: space-between;`
+## 🎯 4. 
+- `justify-content: space-between;`
 
 ---
 
-## 🎯 5. `align-items: flex-end;`
+## 🎯 5. 
+- `align-items: flex-end;`
 
 ---
 
-## 🎯 6. `align-items: center;`
+## 🎯 6. 
+- `align-items: center;`
 
 ---
 
@@ -35,11 +42,13 @@ find the game at : https://flexboxfroggy.com/
 
 ---
 
-## 🎯 8. `flex-direction: row-reverse;`
+## 🎯 8. 
+- `flex-direction: row-reverse;`
 
 ---
 
-## 🎯 9. `flex-direction: column;`
+## 🎯 9. 
+- `flex-direction: column;`
 
 ---
 
@@ -68,15 +77,18 @@ find the game at : https://flexboxfroggy.com/
 
 ---
 
-## 🎯 14. `order: 1;`
+## 🎯 14. 
+- `order: 1;`
 
 ---
 
-## 🎯 15. `order: -3;`
+## 🎯 15. 
+- `order: -3;`
 
 ---
 
-## 🎯 16. `align-self: flex-end;`
+## 🎯 16. 
+- `align-self: flex-end;`
 
 ---
 
@@ -86,7 +98,8 @@ find the game at : https://flexboxfroggy.com/
 
 ---
 
-## 🎯 18. `flex-wrap: wrap;`
+## 🎯 18. 
+- `flex-wrap: wrap;`
 
 ---
 
@@ -96,15 +109,18 @@ find the game at : https://flexboxfroggy.com/
 
 ---
 
-## 🎯 20. `flex-flow: column wrap;`
+## 🎯 20. 
+- `flex-flow: column wrap;`
 
 ---
 
-## 🎯 21. `align-content: flex-start;`
+## 🎯 21. 
+- `align-content: flex-start;`
 
 ---
 
-## 🎯 22. `align-content: flex-end;`
+## 🎯 22. 
+- `align-content: flex-end;`
 
 ---
 
