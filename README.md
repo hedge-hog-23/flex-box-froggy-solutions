@@ -7,7 +7,7 @@ Learn and practice Flexbox concepts with the interactive game at:
 
 
 ## 🎯 1. 
-- `justify-content: flex-end;`
+- `justify-content: flex-end;`  
 ![image](https://github.com/user-attachments/assets/8e2e34d0-f8b3-441f-bc38-ecd89277ecc5)
 
 ---
